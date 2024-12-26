@@ -34,7 +34,7 @@ header .logo {
 }
 
 header .logo h1 {
-    color: #ffd700; /* Dourado para o logo */
+    color: #FF8C00; /* Dourado para o logo */
     font-size: 34px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -62,7 +62,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: #ffd700; /* Dourado no hover */
+    color: #FF8C00; /* Dourado no hover */
 }
 
 /* Seção de Introdução */
@@ -82,7 +82,7 @@ header nav ul li a:hover {
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 20px;
-    color: #ffd700; /* Dourado no título */
+    color: #FF8C00; /* Dourado no título */
 }
 
 .intro p {
@@ -91,7 +91,7 @@ header nav ul li a:hover {
 }
 
 .intro .btn {
-    background-color: #ffd700; /* Dourado para botões */
+    background-color: #FF8C00; /* Dourado para botões */
     color: #121212; /* Texto escuro no botão */
     padding: 18px 40px;
     text-decoration: none;
@@ -103,7 +103,7 @@ header nav ul li a:hover {
 }
 
 .intro .btn:hover {
-    background-color: #ffcc00; /* Dourado mais suave no hover */
+    background-color: #FF8C00; /* Dourado mais suave no hover */
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
 }
 
@@ -117,7 +117,7 @@ header nav ul li a:hover {
 .section-title {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #ffd700; /* Dourado para o título */
+    color: #FF8C00; /* Dourado para o título */
     margin-bottom: 40px;
     text-transform: uppercase;
 }
@@ -149,13 +149,13 @@ header nav ul li a:hover {
 
 .servico-icon {
     font-size: 40px;
-    color: #ffd700; /* Ícones dourados */
+    color: #FF8C00; /* Ícones dourados */
     margin-bottom: 20px;
 }
 
 .servico h3 {
     font-size: 1.5rem;
-    color: #ffd700; /* Título dourado */
+    color: #FF8C00; /* Título dourado */
     margin-bottom: 15px;
     font-weight: 600;
 }
@@ -260,7 +260,7 @@ header nav ul li a:hover {
 /* Seção de Cozinhas, Comercios, Salas e Guarda-Roupas */
 .cozinhas h2, .comercios h2, .salas h2, .guarda-roupas h2 {
     font-size: 40px;
-    color: #ffd700; /* Dourado para títulos */
+    color: #FF8C00; /* Dourado para títulos */
     text-transform: uppercase;
     margin-bottom: 30px;
     text-align: center;
@@ -280,7 +280,7 @@ header nav ul li a:hover {
 
 .contato h2 {
     font-size: 36px;
-    color: #ffd700; /* Título dourado */
+    color: #FF8C00; /* Título dourado */
     margin-bottom: 30px;
 }
 
@@ -298,7 +298,7 @@ header nav ul li a:hover {
 }
 
 .social-links a:hover {
-    color: #ffd700; /* Dourado no hover */
+    color: #FF8C00; /* Dourado no hover */
 }
 
 /* Rodapé */
@@ -324,7 +324,7 @@ footer .localizacao p {
 
 #cozinhas h2 {
     font-size: 2.5rem;
-    color: #ffd700; /* Cor suave e elegante para o título */
+    color: #FF8C00; /* Cor suave e elegante para o título */
     margin-bottom: 40px;
     text-transform: uppercase;
 }
@@ -383,7 +383,7 @@ footer .localizacao p {
     margin-bottom: 20px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #ffd700;
+    color: #FF8C00;
     letter-spacing: 2px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
@@ -402,7 +402,7 @@ footer .localizacao p {
     align-items: center;
     justify-content: center;
     background-color: #2c2c2c;
-    color: #ffd700;
+    color: #FF8C00;
     padding: 20px 40px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -421,7 +421,7 @@ footer .localizacao p {
 .telefone-box i {
     font-size: 2rem;
     margin-right: 15px;
-    color: #ffd700;
+    color: #FF8C00;
 }
 
 /* Número de telefone */
@@ -435,7 +435,7 @@ footer .localizacao p {
     display: inline-block;
     padding: 12px 25px;
     font-size: 1.2rem;
-    background-color: #ffd700;
+    background-color: #FF8C00;
     color: #6a4c3c;
     text-decoration: none;
     border-radius: 30px;
@@ -446,7 +446,7 @@ footer .localizacao p {
 }
 
 .btn-telefone:hover {
-    background-color: #ffcc00;
+    background-color: #FF8C00;
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
@@ -490,7 +490,7 @@ header .logo {
 }
 
 header .logo h1 {
-    color: #ffd700; /* Dourado para o logo */
+    color: #FF8C00; /* Dourado para o logo */
     font-size: 34px;
     font-weight: bold;
     letter-spacing: 2px;
